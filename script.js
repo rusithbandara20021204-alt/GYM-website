@@ -13,7 +13,7 @@ window.onscroll = () => {
 // Typing text code
 
 const typed = new Typed('.multiple-text', {
-      strings: ['Physical Fitness...', 'Weight Gain...','Stregth Training...','Weight Lifting...','Running...'],
+      strings: ['Physical Fitness...', 'Weight Gain...','Strength Training...','Weight Lifting...','Running...'],
       typeSpeed: 60,
       backSpeed: 60,
       backdelap: 1000,
